@@ -33,3 +33,5 @@ Herein we are using Markdown to format texts
 
 Lets get started
 ***
+## Added a new horizontal line
+***
