@@ -1,2 +1,2 @@
 # Screen stools samples
-Use ELISA
+Use ELISA specifically the ProsPect Kit
